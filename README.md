@@ -251,4 +251,11 @@ I am Bohdan Marher, and I`m liked this course web-technologies!
 
 ## Hi!
 
+My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
+
+## Hello!
 I'm Andrushchak Yevhen and I'm glad I started learning web programming ;)
+
+## Hello everyone!
+
+My name is Olexii! I love my university very much and I love github!
