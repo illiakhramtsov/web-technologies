@@ -259,3 +259,12 @@ I'm Andrushchak Yevhen and I'm glad I started learning web programming ;)
 ## Hello everyone!
 
 My name is Olexii! I love my university very much and I love github!
+
+# web-technologies.
+My name is Bogdan Babin , and I am currently studying in my second year at CHNU. This message is for my first web programming lab. Working with Git has been an exciting experience, as it simplifies version control and collaboration. I look forward to mastering it further and applying it in my future projects
+
+I don't know what else to add here, but all I want to say is that if you want to play some games, I will gladly agree, here is a link to my steam profile https://steamcommunity.com/profiles/76561198905140414/
+
+And what else do I want to add about myself, yes, I'm a guy in a cool suit. But who am I without it? - Uh, a genius, a playboy, a philanthropist, a billionaire. :)
+
+![toni](https://github.com/user-attachments/assets/2c4494d3-dba8-4aee-b892-6a5a4cb88247)
